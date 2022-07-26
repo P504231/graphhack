@@ -1,0 +1,19 @@
+{
+  "name": "graphhack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-util-is": "^1.0.3",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.10.0",
+    "webpack-dev-server": "^4.9.3"
+  }
+}
